@@ -11,7 +11,7 @@ import Footer from '@/components/Footer';
 import Cursor from '@/components/Cursor';
 import ScrollProgress from '@/components/ScrollProgress';
 import Preloader from '@/components/Preloader';
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from '@vercel/analytics/react';
 function App() {
   const { theme, toggle } = useTheme();
   useSmoothScroll();
