@@ -37,10 +37,7 @@ export default function Footer() {
               </span>
               <span className="font-display font-semibold">{profile.name}</span>
             </div>
-            <p className="text-xs text-[var(--muted)] flex items-center gap-1.5">
-              Built with React + GSAP
-              <Heart size={11} className="text-accent-violet" />
-            </p>
+            
           </div>
 
           {/* Social icons */}
