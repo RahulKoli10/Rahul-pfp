@@ -149,23 +149,23 @@ export type Project = {
 };
 
 export const projects: Project[] = [
-  {
-    name: 'LBOS',
-    tagline: 'Multi-Business Billing & POS Platform',
-    description:
-      'A scalable SaaS platform for managing billing, inventory, products, and outlet operations across multiple business types including grocery, retail, wholesale, pharmacy, cosmetics, stationery, and hardware stores.',
-    tags: ['Next.js', 'TypeScript', 'Node.js', 'Express.js', 'PostgreSQL', 'Prisma', 'Redis'],
-    highlights: [
-      'Multi-business and outlet management',
-      'Product, variant and bundle management',
-      'Inventory and stock tracking',
-      'Scalable REST API architecture',
-    ],
-    github: '#',
-    accent: 'orange',
-    image: 'https://images.pexels.com/photos/8475161/pexels-photo-8475161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-    year: '2026',
-  },
+  // {
+  //   name: 'LBOS',
+  //   tagline: 'Multi-Business Billing & POS Platform',
+  //   description:
+  //     'A scalable SaaS platform for managing billing, inventory, products, and outlet operations across multiple business types including grocery, retail, wholesale, pharmacy, cosmetics, stationery, and hardware stores.',
+  //   tags: ['Next.js', 'TypeScript', 'Node.js', 'Express.js', 'PostgreSQL', 'Prisma', 'Redis'],
+  //   highlights: [
+  //     'Multi-business and outlet management',
+  //     'Product, variant and bundle management',
+  //     'Inventory and stock tracking',
+  //     'Scalable REST API architecture',
+  //   ],
+  //   github: '#',
+  //   accent: 'orange',
+  //   image: 'https://images.pexels.com/photos/8475161/pexels-photo-8475161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  //   year: '2026',
+  // },
   {
     name: 'Himalayan Yatra Travels',
     tagline: 'Cab Booking Platform',
