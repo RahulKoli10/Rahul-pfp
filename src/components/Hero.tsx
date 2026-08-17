@@ -437,7 +437,7 @@ export default function Hero() {
             View Projects
           </button>{" "}
           <a
-            href="/Rahul-koli-Fullstack-resume.pdf"
+            href="/Rahul-Koli-FullStack-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             data-cursor="text"
